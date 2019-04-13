@@ -1,0 +1,122 @@
+%PDF-1.2 
+1 0 obj
+<<
+/Type /Catalog
+/Pages 3 0 R
+/PageMode /UseNone
+/PageLayout /SinglePage
+>>
+endobj
+2 0 obj
+<<
+/Producer ()
+/Author ()
+/CreationDate (D:20190409204035)
+/Creator (Free PDF Editor \(FreePDFEditor.net\))
+/Keywords ()
+/Subject ()
+/Title ()
+/ModDate (D:20190409204035)
+>>
+endobj
+3 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R ]
+/Count 1
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/Parent 3 0 R
+/MediaBox [0 0 595 841 ]
+/Resources <<
+/Font <<
+/F0 6 0 R
+>>
+/XObject <<
+>>
+/ProcSet [/PDF /Text /ImageC ]
+>>
+/Contents 5 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 805
+/Filter []
+>>
+stream
+/F0 10 Tf
+0 0 0 rg
+14 TL
+BT
+33 799.5 Td
+(1. How many ways are there to call a function in R?) Tj
+T*
+T*
+(Not discussed in class) Tj
+T*
+( ) Tj
+T*
+(2. Is the below statement true? ) Tj
+T*
+(• The lazy evaluation of a function means, the argument is evaluated ) Tj
+T*
+(only if it is evaluated only if it is used inside the body of the function. ) Tj
+T*
+T*
+(True) Tj
+T*
+T*
+(3. Mention true or false for below statements: ) Tj
+T*
+(a. Insights driven from descriptive analytics is not meaningful. - False) Tj
+T*
+(b. The number of values in each Elements of a list, should be equal. -) Tj
+T*
+(True) Tj
+T*
+(c. The datasets are not stored in memory of the computer using R. - ) Tj
+T*
+(False) Tj
+T*
+(d. Data frames and matrices are two dimensional however the array i) Tj
+T*
+(multidimensional. - ) Tj
+T*
+(True) Tj
+ET
+
+endstream
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+/BaseFont /Helvetica
+/Name /F0
+>>
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000011 00000 n
+0000000111 00000 n
+0000000313 00000 n
+0000000378 00000 n
+0000000567 00000 n
+0000001442 00000 n
+trailer
+<<
+/Size 7
+/Root 1 0 R
+/Info 2 0 R
+>>
+startxref
+1588
+%%EOF
